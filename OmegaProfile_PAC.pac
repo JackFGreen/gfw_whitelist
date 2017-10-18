@@ -64,6 +64,7 @@ var RULES = [
     ],
     //custom-list
     [
+        ".itellyou.cn",
         ".udacity.com",
         ".segmentfault.com",
         ".v2ex.com",
