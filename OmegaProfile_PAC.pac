@@ -64,6 +64,7 @@ var RULES = [
     ],
     //custom-list
     [
+        ".juejin.im",
         ".webpack-china.org",
         ".itellyou.cn",
         ".udacity.com",
