@@ -64,6 +64,7 @@ var RULES = [
     ],
     //custom-list
     [
+        ".xjd.com",
         ".juejin.im",
         ".webpack-china.org",
         ".itellyou.cn",
