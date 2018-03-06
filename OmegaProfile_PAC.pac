@@ -64,6 +64,7 @@ var RULES = [
     ],
     //custom-list
     [
+        ".lagou.com",
         ".ryl.com",
         ".xjd.com",
         ".juejin.im",
