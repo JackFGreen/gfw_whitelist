@@ -1,5 +1,6 @@
 # gfw_whitelist
-参考 https://github.com/n0wa11/gfw_whitelist
+GFW 白名单  
+使用方法参考 https://github.com/n0wa11/gfw_whitelist
 
 安装 chrome 扩展 [SwitchyOmega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif)
 1. 新建 PAC 情景模式
