@@ -55,7 +55,7 @@ var PROXY_METHOD = PROXY_TYPE + ' ' + IP_ADDRESS;
     // (2) https://dl-web.dropbox.com/u/3241202/apps/chn-cdn/dnsmasq.server.conf - ihipop
     // (3) @xream's whitelist
     // (4) Alexa 500
-f
+        
     // Feel free to add or edit custom list
 var RULES = [
     //cn
