@@ -64,6 +64,7 @@ var RULES = [
     ],
     //custom-list
     [
+        ".visualstudio.com",
         ".lagou.com",
         ".ryl.com",
         ".xjd.com",
