@@ -60,8 +60,7 @@ var PROXY_METHOD = PROXY_TYPE + ' ' + IP_ADDRESS;
 var RULES = [
     //cn
     [
-        ".cn",
-        ".im"
+        ".cn"
     ],
     //custom-list
     [
@@ -69,6 +68,7 @@ var RULES = [
         ".ryl.com",
         ".xjd.com",
         ".juejin.im",
+        "juejin.im",
         ".webpack-china.org",
         ".itellyou.cn",
         ".udacity.com",
