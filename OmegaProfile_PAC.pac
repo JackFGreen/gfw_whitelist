@@ -68,7 +68,7 @@ var RULES = [
         ".ryl.com",
         ".xjd.com",
         ".juejin.im",
-        "juejin.im",
+        ".xitu.io",
         ".webpack-china.org",
         ".itellyou.cn",
         ".udacity.com",
