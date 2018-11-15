@@ -60,7 +60,8 @@ var PROXY_METHOD = PROXY_TYPE + ' ' + IP_ADDRESS;
 var RULES = [
     //cn
     [
-        ".cn"
+        ".cn",
+        ".im"
     ],
     //custom-list
     [
