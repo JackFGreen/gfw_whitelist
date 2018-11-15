@@ -401,7 +401,7 @@ var RULES = [
         ".baidu.com",
         ".qq.com",
         ".taobao.com",
-        // ".163.com",
+        ".163.com",
         ".weibo.com",
         ".sohu.com",
         ".youku.com",
