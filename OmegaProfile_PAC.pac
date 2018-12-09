@@ -64,6 +64,8 @@ var RULES = [
     ],
     //custom-list
     [
+        "github.com",
+        ".ruanyifeng.com",
         ".lagou.com",
         ".ryl.com",
         ".xjd.com",
