@@ -64,7 +64,7 @@ var RULES = [
     ],
     //custom-list
     [
-        "docapi.wbfex.top",
+        ".docapi.wbfex.top",
         "github.com",
         ".ruanyifeng.com",
         ".lagou.com",
