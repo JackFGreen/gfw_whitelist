@@ -64,7 +64,7 @@ var RULES = [
     ],
     //custom-list
     [
-        "apigateway.wbfex.top",
+        ".nuxtjs.org",
         ".wbfex.top",
         "github.com",
         ".ruanyifeng.com",
