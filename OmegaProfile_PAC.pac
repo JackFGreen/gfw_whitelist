@@ -426,7 +426,6 @@ var RULES = [
         ".alibaba.com",
         ".56.com",
         ".xunlei.com",
-        ".bing.com",
         ".iqiyi.com",
         ".csdn.net",
         ".soku.com",
