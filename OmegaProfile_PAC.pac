@@ -65,7 +65,7 @@ var RULES = [
     //custom-list
     [
         ".nuxtjs.org",
-        //".wbfex.top",
+        ".onlinesjtu.com",
         "github.com",
         ".ruanyifeng.com",
         ".lagou.com",
