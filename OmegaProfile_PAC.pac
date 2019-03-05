@@ -66,7 +66,8 @@ var RULES = [
     [
         ".nuxtjs.org",
         ".onlinesjtu.com",
-        "github.com",
+        ".wbfex.io",
+        ".github.com",
         ".ruanyifeng.com",
         ".lagou.com",
         ".ryl.com",
