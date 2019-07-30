@@ -64,6 +64,7 @@ var RULES = [
     ],
     //custom-list
     [
+        "jira.wbfex.info",
         ".processon.com",
         "github.com",
         ".nuxtjs.org",
