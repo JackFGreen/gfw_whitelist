@@ -359,7 +359,6 @@ var RULES = [
         ".wandoujia.com",
         ".wdjimg.com",
         ".web887.com",
-        ".wikipedia.org",
         ".williamlong.info",
         ".woniu.com",
         ".wordpress.org",
