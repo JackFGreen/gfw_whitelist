@@ -65,7 +65,7 @@ var RULES = [
     //custom-list
     [
         ".processon.com",
-        "github.com",
+        ".github.com",
         ".nuxtjs.org",
         ".onlinesjtu.com",
         ".ruanyifeng.com",
