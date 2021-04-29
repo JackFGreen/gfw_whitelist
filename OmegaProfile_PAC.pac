@@ -64,6 +64,7 @@ var RULES = [
     ],
     //custom-list
     [
+        //".github.com",
         ".processon.com",
         ".nuxtjs.org",
         ".onlinesjtu.com",
