@@ -30,7 +30,7 @@ var FindProxyForURL = function(init, profiles) {
      *                                                 *
      * * * * * * * * * * * * * * * * * * * * * * * * * */
 
-var IP_ADDRESS = '127.0.0.1:1080';
+var IP_ADDRESS = '127.0.0.1:1086';
 
     /* * * * * * * * * * * * * * * * * * * * * * * * * *
      *                                                 *
